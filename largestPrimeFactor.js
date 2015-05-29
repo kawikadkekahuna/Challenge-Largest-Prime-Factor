@@ -2,7 +2,7 @@ exports.largestPrimeFactor = function(n){
 
    var primeNumber = 0;
    var start = 2;
-   var highestFactor = 0;
+   var highestFactor = 1;
 
 
 
